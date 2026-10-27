@@ -20,7 +20,7 @@ def _send_first(token):
         info = bs.get_connection_to_host_info_2()
         if not info:
             return
-        bs.chatmessage("Gift Mobile 100")
+        bs.chatmessage("Gift Pigord 100")
     except Exception:
         return
 
